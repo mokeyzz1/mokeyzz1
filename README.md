@@ -11,7 +11,7 @@ Welcome to my little corner of GitHub! I'm an aspiring data analyst with a passi
 I’m always up for a chat about data, projects. 
 
 - [LinkedIn](https://www.linkedin.com/in/mosesbkoroma/)
-- Email: moseskorom82@gmail.com/s576958@nwmissouri.edu 
+- Email: moseskorom82@gmail.com/ s576958@nwmissouri.edu 
 
 ## 🚀 Currently Exploring
 - Advanced machine learning techniques
