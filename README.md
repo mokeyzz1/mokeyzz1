@@ -8,7 +8,7 @@ Welcome to my little corner of GitHub! I'm an aspiring data analyst with a passi
 - **Machine Learning Explorer**: I'm diving into machine learning to level up my analysis skills.
 
 ## 📫 Let’s Connect!
-I’m always up for a chat about data, projects, or just to swap pizza recommendations! 🍕😄
+I’m always up for a chat about data, projects. 
 
 - [LinkedIn](https://www.linkedin.com/in/mosesbkoroma/)
 - Email: moseskorom82@gmail.com/s576958@nwmissouri.edu 
