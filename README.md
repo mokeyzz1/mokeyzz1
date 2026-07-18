@@ -1,7 +1,7 @@
-# hey, i'm moses.
+# hey, i'm moses. 👋🏾
 
-**data scientist · software developer**
+**data scientist 📊 · software developer 💻**
 
-usually building something, learning something, or both.
+usually building something, learning something, or both. 🌱
 
-[moses@turnlogicai.com](mailto:moses@turnlogicai.com)
+📬 [moses@turnlogicai.com](mailto:moses@turnlogicai.com)
