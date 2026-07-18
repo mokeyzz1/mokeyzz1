@@ -1,5 +1,5 @@
-# hey, i'm moses. 👋🏾
+# Hey, I'm Moses. 👋🏾
 
-**data scientist 📊 · software developer 💻**
+**Data Scientist 📊 · Software Developer 💻**
 
-usually building something, learning something, or both. 🌱
+Usually building something, learning something, or both. 🌱
